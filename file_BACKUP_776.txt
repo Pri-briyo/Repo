@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+File 1 - Introduction
+=======
+File -> end 
+>>>>>>> BranchB
